@@ -86,16 +86,16 @@ This project involves the design and implementation of a high-frequency clock di
 - Add programmable divider ratios
 - Expand documentation with detailed measurement results
 
-## 📁 Repository Contents
+## 📁 Planned Repository Contents
 
-This repository will contain:
+This repository is planned to contain:
 - PCB design files (KiCad project files)
 - Schematic diagrams
 - PCB layout files
 - Bill of Materials (BOM)
 - Design documentation
 - Measurement results and analysis
-- Technical report
+- Technical report (PDF)
 
 ## 👤 Author
 
